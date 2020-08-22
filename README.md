@@ -10,6 +10,6 @@ git clone https://github.com/INY0NG/SPAM
 ls
 cd SPAM
 ls
-python2 Bom-Sms.py
+python2 sms.py
 
 Silahkan isi nomor :)
